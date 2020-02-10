@@ -1,0 +1,8 @@
+{
+  "name": "bizon001mob",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

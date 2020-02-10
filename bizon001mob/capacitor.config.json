@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "bizon001mob",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
